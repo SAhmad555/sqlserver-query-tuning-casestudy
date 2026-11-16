@@ -1,0 +1,18 @@
+# .NET build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+
+# SQL Server files (never commit databases or backups)
+*.mdf
+*.ldf
+*.ndf
+*.bak
+
+# OS
+Thumbs.db
+.DS_Store
